@@ -1,1 +1,8 @@
-# Praktikum3
+# TIPE-DATA-VARIABLE-DAN-OPERATOR
+Nama: ANDREAN PUTRA AARYA
+
+Kelas: TI.24.A4
+
+NIM: 312410341
+
+Matkul: Bahasa Pemrograman

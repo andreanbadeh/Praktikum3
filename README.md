@@ -7,7 +7,7 @@ NIM: 312410341
 
 Matkul: Bahasa Pemrograman
 
-# LAB1
+# LATIHAN1
 ```python
 #penggunaan end
 print('A', end='')

@@ -147,3 +147,8 @@ secara Default, .format() menggunakan rata kiri, angka ke kanan. kita dapat meng
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/deb296e96f491981b8dede207ba1eb8456c03837/Screenshot%202024-10-15%20141347.png)
 
 Untuk hasil dari String Format 2 adalah :
+
+## Tugas Latihan
+![gambar](https://github.com/andreanbadeh/fotoo/blob/fee7f554ebd75304da4d93e6eef690efad8d7166/Screenshot%202024-10-15%20142113.png)
+
+# Flowchart

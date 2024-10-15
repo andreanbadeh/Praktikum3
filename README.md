@@ -46,7 +46,7 @@ print('z')
 ```
 Hasil dari source code tersebut seperti gambar dibawah ini :
 
-![gambar](https://github.com/andreanbadeh/Praktikum3/blob/9215865d3f33c6b3578fe63f2fb097d6695e09a5/Screenshot%202024-10-15%20133640.png)
+![gambar](https://github.com/andreanbadeh/fotoo/blob/5897a8fe928d65b7b12aa3a8408391ca3dfd490c/Screenshot%202024-10-15%20133640.png)
 
 Penggunaan separator
 Pendeklarasian beberapa variable beserta nilainya
@@ -76,4 +76,4 @@ print(w,x,y,z,sep="-----")
 ```
 hasil dari syntax / source code diatas adalah seperti berikut ini :
 
-![gambar](https://github.com/andreanbadeh/Praktikum3/blob/273145a983cf9cee92883231eb77183bef10a048/Screenshot%202024-10-15%20133703.png)
+![gambar](https://github.com/andreanbadeh/fotoo/blob/5897a8fe928d65b7b12aa3a8408391ca3dfd490c/Screenshot%202024-10-15%20133703.png)

@@ -95,3 +95,43 @@ print("hasil pejumlahan {1}+{0}=%d".format(a,b) %(a+b))
 print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 ```
 Kita akan coba lagi untuk run file tersebut, maka akan muncul seperti gambar dibawah ini :
+
+![gambar](https://github.com/andreanbadeh/fotoo/blob/2c18a50361f6617ac1c5624ae6ca16c2449b0885/Screenshot%202024-10-15%20140328.png)
+
+String Format
+String formatting atau pemformatan string memungkinan kita menyuntikkan item kedalam string dari pada kita mencoba menggabungkan string menggunakan koma atau string concatenation.
+Penggunaan source code yang di berikan oleh dosen seperti berikut :
+
+![gambar](https://github.com/andreanbadeh/fotoo/blob/2c18a50361f6617ac1c5624ae6ca16c2449b0885/Screenshot%202024-10-15%20140431.png)
+
+```python
+#string format 1
+print(0, 10**0)
+print(1, 10**1)
+print(2, 10**2)
+print(3, 10**3)
+print(4, 10**4)
+print(5, 10**5)
+print(6, 10**5)
+print(8, 10**8)
+print(9, 10**9)
+print(10, 10**10)
+
+#string format 2
+print('{0:>3} {1:>16}'.format(0, 10**0))
+print('{0:>3} {1:>16}'.format(1, 10**1))
+print('{0:>3} {1:>16}'.format(2, 10**2))
+print('{0:>3} {1:>16}'.format(3, 10**3))
+print('{0:>3} {1:>16}'.format(4, 10**4))
+print('{0:>3} {1:>16}'.format(5, 10**5))
+print('{0:>3} {1:>16}'.format(6, 10**6))
+print('{0:>3} {1:>16}'.format(7, 10**7))
+print('{0:>3} {1:>16}'.format(8, 10**8))
+print('{0:>3} {1:>16}'.format(9, 10**9))
+print('{0:>3} {1:>16}'.format(10, 10**10))
+```
+String Format 1
+Pada syntax / source code strring format satu akan menampilkan output berupa 2 outputan.
+Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, sedangkan untuk sebelah kanan akan menampilkan Operasi Aritmatika Pangkat.
+Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua] )
+Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10, dengan output sebagai berikut :

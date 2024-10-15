@@ -135,3 +135,14 @@ Pada syntax / source code strring format satu akan menampilkan output berupa 2 o
 Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, sedangkan untuk sebelah kanan akan menampilkan Operasi Aritmatika Pangkat.
 Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua] )
 Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10, dengan output sebagai berikut :
+
+![gambar](https://github.com/andreanbadeh/fotoo/blob/77df8a18e59b99556aa69a5514bbdc67d555516d/Screenshot%202024-10-15%20141036.png)
+
+2 * String Format 2*
+Pada syntax atau source code string format dua akan menampilkan output berupa 2 output'an juga (seperti String Format 1, yaitu kanan dan kiri )
+Dengan ketentuan sebagai berikut :
+
+secara Default, .format() menggunakan rata kiri, angka ke kanan. kita dapat menggunakan opsi opsional <,^, atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan .format() sebagai berikut :
+
+Untuk hasil dari String Format 2 adalah :
+![gambar](https://github.com/andreanbadeh/fotoo/blob/77df8a18e59b99556aa69a5514bbdc67d555516d/Screenshot%202024-10-15%20141105.png)

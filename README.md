@@ -75,3 +75,5 @@ Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemirsah -----
 print(w,x,y,z,sep="-----")
 ```
 hasil dari syntax / source code diatas adalah seperti berikut ini :
+
+![gambar]()

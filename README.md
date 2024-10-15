@@ -77,3 +77,21 @@ print(w,x,y,z,sep="-----")
 hasil dari syntax / source code diatas adalah seperti berikut ini :
 
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/5897a8fe928d65b7b12aa3a8408391ca3dfd490c/Screenshot%202024-10-15%20133703.png)
+
+## LATIHAN 2
+
+![gambar](https://github.com/andreanbadeh/fotoo/blob/9b329a799a6e999ad0d62d0fa79e00a0392c3a39/Screenshot%202024-10-15%20135657.png)
+```python
+a=int(input("masukkan nilai a:"))
+b=int(input("masukkan nilai b:"))
+print("variable a=",a)
+print("variable b=",b)
+print("hasil penggabungan {1}&{0}=%d".format(a,b) %(a+b))
+
+#konversi nilai variable
+a=int(a)
+b=int(b)
+print("hasil pejumlahan {1}+{0}=%d".format(a,b) %(a+b))
+print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
+```
+Kita akan coba lagi untuk run file tersebut, maka akan muncul seperti gambar dibawah ini :

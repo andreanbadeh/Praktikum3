@@ -45,3 +45,5 @@ print('Y')
 print('z')
 ```
 Hasil dari source code tersebut seperti gambar dibawah ini :
+
+![gambar]()

@@ -46,4 +46,4 @@ print('z')
 ```
 Hasil dari source code tersebut seperti gambar dibawah ini :
 
-![gambar]()
+![gambar](https://github.com/andreanbadeh/Praktikum3/blob/9215865d3f33c6b3578fe63f2fb097d6695e09a5/Screenshot%202024-10-15%20133640.png)

@@ -153,3 +153,4 @@ Untuk hasil dari String Format 2 adalah :
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/fee7f554ebd75304da4d93e6eef690efad8d7166/Screenshot%202024-10-15%20142113.png)
 
 # Flowchart
+![gambar]()

@@ -155,5 +155,11 @@ Untuk hasil dari String Format 2 adalah :
 # Flowchart Bilangan terbesar dari 3 buah bilangan
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/bd9e3adde0f5631af42bdff66f2ec22c17f9056e/Gambar%20WhatsApp%202024-10-17%20pukul%2000.34.59_95aec777.jpg)
 
+# Program bilangan terbesar dari 3 buah yg di inputkan
+![gambar](https://github.com/andreanbadeh/fotoo/blob/5d260e088cd8f193f1e60434f5cd10c240a56f19/Screenshot%202024-10-17%20222816.png)
+
+Hasil output
+![gambar](https://github.com/andreanbadeh/fotoo/blob/5d260e088cd8f193f1e60434f5cd10c240a56f19/Screenshot%202024-10-17%20222919.png)
+
 # Flowchart Bilangan terbesar dari N bilangan
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/ce18dadba5891432472b0e35fe65ac9f347d661d/Gambar%20WhatsApp%202024-10-17%20pukul%2012.53.34_cd402e92.jpg)

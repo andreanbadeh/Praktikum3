@@ -159,6 +159,7 @@ Untuk hasil dari String Format 2 adalah :
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/5d260e088cd8f193f1e60434f5cd10c240a56f19/Screenshot%202024-10-17%20222816.png)
 
 Hasil output
+
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/5d260e088cd8f193f1e60434f5cd10c240a56f19/Screenshot%202024-10-17%20222919.png)
 
 # Flowchart Bilangan terbesar dari N bilangan

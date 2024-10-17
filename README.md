@@ -152,5 +152,8 @@ Untuk hasil dari String Format 2 adalah :
 ## Tugas Latihan
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/fee7f554ebd75304da4d93e6eef690efad8d7166/Screenshot%202024-10-15%20142113.png)
 
-# Flowchart
+# Flowchart Bilangan terbesar dari 3 buah bilangan
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/bd9e3adde0f5631af42bdff66f2ec22c17f9056e/Gambar%20WhatsApp%202024-10-17%20pukul%2000.34.59_95aec777.jpg)
+
+# Flowchart Bilangan terbesar dari N bilangan
+![gambar](https://github.com/andreanbadeh/fotoo/blob/ce18dadba5891432472b0e35fe65ac9f347d661d/Gambar%20WhatsApp%202024-10-17%20pukul%2012.53.34_cd402e92.jpg)

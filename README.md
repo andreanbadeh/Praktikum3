@@ -158,12 +158,13 @@ Untuk hasil dari String Format 2 adalah :
 # Program bilangan terbesar dari 3 buah yg di inputkan
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/5d260e088cd8f193f1e60434f5cd10c240a56f19/Screenshot%202024-10-17%20222816.png)
 
+melalui pernyataan kondisi if-else, program membandingkan bilangan pertama dengan bilangan kedua dan ketiga, dan seterusnya.
+
 Hasil output
 
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/5d260e088cd8f193f1e60434f5cd10c240a56f19/Screenshot%202024-10-17%20222919.png)
 
-untuk meminta pengguna untuk memasukkan tiga bilangan, melalui pernyataan kondisi if-else, program membandingkan bilangan pertama dengan bilangan kedua dan ketiga, dan seterusnya.
-
+untuk meminta pengguna untuk memasukkan tiga bilangan, 
 
 # Flowchart Bilangan terbesar N
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/ce18dadba5891432472b0e35fe65ac9f347d661d/Gambar%20WhatsApp%202024-10-17%20pukul%2012.53.34_cd402e92.jpg)

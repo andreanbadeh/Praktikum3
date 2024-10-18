@@ -162,7 +162,7 @@ Hasil output
 
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/5d260e088cd8f193f1e60434f5cd10c240a56f19/Screenshot%202024-10-17%20222919.png)
 
-untuk meminta pengguna untuk memasukkan tiga bilangan melalui pernyataan kondisi if-else, program membandingkan bilangan pertama dengan bilangan kedua dan ketiga, dan seterusnya.
+untuk meminta pengguna untuk memasukkan tiga bilangan, melalui pernyataan kondisi if-else, program membandingkan bilangan pertama dengan bilangan kedua dan ketiga, dan seterusnya.
 
 
 # Flowchart Bilangan terbesar N

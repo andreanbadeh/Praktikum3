@@ -171,6 +171,10 @@ untuk meminta pengguna untuk memasukkan tiga bilangan melalui pernyataan kondisi
 # Program bilangan terbesar N 
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/0d670d30789235f363332c5840dee4a8416d3b68/Screenshot%202024-10-17%20223514.png)
 
+setiap angka yang diinputkan diperiksa apakah lebih besar dari angka terbesar yang saat ini di simpan
+
 Hasil output
 
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/0d670d30789235f363332c5840dee4a8416d3b68/Screenshot%202024-10-17%20223553.png)
+
+jika pengguna memasukkan angka 0, program akan memberi tahu bahwa tidak ada bilangan yang dimasukkan dan tidak akan melanjutkan untuk meminta bilangan lebih lanjut

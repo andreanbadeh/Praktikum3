@@ -165,7 +165,7 @@ Hasil output
 untuk meminta pengguna untuk memasukkan tiga bilangan melalui pernyataan kondisi if-else, program membandingkan bilangan pertama dengan bilangan kedua dan ketiga, dan seterusnya.
 
 
-# Flowchart Bilangan terbesar dari N bilangan
+# Flowchart Bilangan terbesar N
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/ce18dadba5891432472b0e35fe65ac9f347d661d/Gambar%20WhatsApp%202024-10-17%20pukul%2012.53.34_cd402e92.jpg)
 
 # Program bilangan terbesar N 

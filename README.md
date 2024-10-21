@@ -170,12 +170,12 @@ untuk meminta pengguna untuk memasukkan tiga bilangan,
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/ce18dadba5891432472b0e35fe65ac9f347d661d/Gambar%20WhatsApp%202024-10-17%20pukul%2012.53.34_cd402e92.jpg)
 
 # Program bilangan terbesar N 
-![gambar](https://github.com/andreanbadeh/fotoo/blob/0d670d30789235f363332c5840dee4a8416d3b68/Screenshot%202024-10-17%20223514.png)
+![gambar](https://github.com/andreanbadeh/fotoo/blob/8b14639ecd89e396334a53319be6fefe84e6666c/Screenshot%20From%202024-10-21%2022-40-07.png)
 
 setiap angka yang diinputkan diperiksa apakah lebih besar dari angka terbesar yang saat ini di simpan
 
 Hasil output
 
-![gambar](https://github.com/andreanbadeh/fotoo/blob/0d670d30789235f363332c5840dee4a8416d3b68/Screenshot%202024-10-17%20223553.png)
+![gambar](https://github.com/andreanbadeh/fotoo/blob/8b14639ecd89e396334a53319be6fefe84e6666c/Screenshot%20From%202024-10-21%2022-41-55.png)
 
 jika pengguna memasukkan angka 0, program akan memberi tahu bahwa tidak ada bilangan yang dimasukkan dan tidak akan melanjutkan untuk meminta bilangan lebih lanjut

@@ -172,7 +172,7 @@ untuk meminta pengguna untuk memasukkan tiga bilangan,
 # Program bilangan terbesar N 
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/8b14639ecd89e396334a53319be6fefe84e6666c/Screenshot%20From%202024-10-21%2022-40-07.png)
 
-setiap angka yang diinputkan diperiksa apakah lebih besar dari angka terbesar yang saat ini di simpan
+Untuk menentukan bilangan terbesar dari n dalam Python, Anda bisa menggunakan fungsi max()
 
 Hasil output
 
